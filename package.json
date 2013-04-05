@@ -1,0 +1,21 @@
+{
+  "name": "fixing-broken-windows",
+  "version": "0.0.0-6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js"
+  },
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.3.11"
+  },
+  "dependencies": {
+    "ecstatic": "~0.1.6",
+    "ramrod": "0.0.2"
+  },
+  "engines": {
+    "node": "0.6.x"
+  },
+  "subdomain": "fixing-broken-windows"
+}
